@@ -5,4 +5,4 @@ It is also worth noting that this project is also an interesting candidate for g
 
 A fun example of this can be found here: http://www.blprnt.com/smartrockets/
 
-In the above example a rocket's fitness is measured by how close to got to the target.
+In the above example a rocket's fitness is measured by how close it got to the target.
